@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MateoStr
-- 👀 I’m interested in cloud computing, game development, and web development.
-- 🌱 I’m currently learning swift, unity game engine, and nodeJS
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: mateostrasdas@hotmail.com
+- 👀 I’m interested in cloud computing, game & web development, and Database Administration.
+- 🌱 Currently, I am further developing my skills by developing PHP wordpress plugins.
+- 📫 How to reach me: mateostrasdas1@gmail.com
+- ☑  If you prefer, you can connect with me on linkedin at:  https://www.linkedin.com/in/mateo-strasdas/
