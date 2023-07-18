@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MateoStr
-- 👀 I’m interested in cloud computing, web development, and Database Administration.
-- 🌱 Currently, I am further developing my skills by doing contract based freelance work developing Web applications.
+- 👀 I’m interested in cloud computing, web and game development, and Database Administration.
+- 🌱 Currently, I am working full-time as a software developer for a small Canadian startup.
 - 📫 How to reach me: mateostrasdas1@gmail.com
-- ☑  If you prefer, you can connect with me on linkedin at:  https://www.linkedin.com/in/mateo-strasdas/
+- ☑  If you prefer, you can connect with me on LinkedIn at:  https://www.linkedin.com/in/mateo-strasdas/
